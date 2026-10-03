@@ -69,7 +69,7 @@ Karpathy 是从「人读模型输出」的角度讲的。但我觉得这套东�
 
 ## 三、我先装了英文版，然后发现不对味
 
-社区在三个月前就有人把 ASD-STE100 做成了开源技能：[danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)（现在近 3000 star，MIT）。它把规则用到工具描述、报错信息、system prompt、agent 间指令上，还分了两档：
+社区在两个多月前就有人把 ASD-STE100 做成了开源技能：[danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)（现在近 3000 star，MIT）。它把规则用到工具描述、报错信息、system prompt、agent 间指令上，还分了两档：
 
 - **Strict** —— 程序步骤、报错、工具描述这类「读错有代价」的文本。
 - **STE-flavored** —— README、PR 描述这类说明文，保留句长与结构纪律，但不锁死用词。

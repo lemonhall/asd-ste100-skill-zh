@@ -103,6 +103,7 @@ SKILL.md                     技能正文（规则、模式、流程、输出格
 references/writing-rules.md  规则全集 + 与上游九节 53 条的对应 + 中文特有的坑
 examples/before-after.md     8 组前后对照；after-only.md 是改写列的 lint 夹具（硬违规 0）
 scripts/ste-lint-zh.py       确定性 linter（stdlib-only，含 --selftest）
+docs/wechat-article.md       公众号文章稿：方法论 + Karpathy 原话 + 安装方式
 NOTICE.md                    与上游的关系、差异清单、许可
 ```
 
