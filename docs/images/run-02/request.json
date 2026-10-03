@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-image-2.5-sunburst",
+  "prompt": "Wide editorial illustration for a magazine cover, flat vector style with light paper texture.\n\nLeft side: an open engineering handbook about aircraft, drawn in blueprint-blue technical line art, showing a jet engine and a wing section. Its text appears as dense, tangled, overlapping scribble lines, suggesting long complicated sentences.\n\nRight side: the same content shown as a clean, evenly spaced checklist of short straight lines in safety yellow on a navy panel, next to a small friendly rounded robot assistant holding a clipboard and reading.\n\nA thin dashed arc sweeps across the middle and connects the two sides.\n\nColour palette: deep navy blue, off-white paper, safety yellow accent, a little warm orange. Flat shapes, high contrast, generous empty space.\n\nA neat short label \"ASD-STE100\" appears once on the handbook cover. Everything else is illustration, with no other lettering.\n\nComposition: all important elements sit inside the central horizontal band of the frame, so the top and bottom edges can be cropped. Fully painted opaque background.\n",
+  "size": "1792x1024",
+  "n": 1,
+  "output_format": "png",
+  "background": "opaque"
+}

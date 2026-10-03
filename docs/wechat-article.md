@@ -1,5 +1,7 @@
 # K 神让 AI 去学 40 年前的航空维修手册，我把它变成了中文技能
 
+![封面：左边是写满绕句子、画着航空图纸的手册，右边是同一份内容变成整齐的清单](https://cdn.jsdelivr.net/gh/lemonhall/asd-ste100-skill-zh@main/docs/images/cover-2.35x1.png)
+
 > 公众号文章草稿。仓库：https://github.com/lemonhall/asd-ste100-skill-zh
 
 ## 一、事情从 Karpathy 的一条推文开始

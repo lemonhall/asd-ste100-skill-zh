@@ -1,0 +1,13 @@
+[
+  {
+    "file": "image-01.png",
+    "bytes": 2787345,
+    "format": "PNG",
+    "mode": "RGB",
+    "size": [
+      1792,
+      1024
+    ],
+    "alpha": "none (opaque)"
+  }
+]
